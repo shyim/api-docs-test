@@ -31,6 +31,6 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|setgroups|[promotion_setgroup_flat](/schema/promotion_setgroup_flat)|false|none|Added since version: 6.0.0.0|
-|discounts|[promotion_discount_flat](/schema/promotion_discount_flat)|false|none|Added since version: 6.0.0.0|
-|individualCodes|[promotion_individual_code_flat](/schema/promotion_individual_code_flat)|false|none|Added since version: 6.0.0.0|
+|setgroups|[promotion_setgroup_flat](/schema/promotion_setgroup_flat.md)|false|none|Added since version: 6.0.0.0|
+|discounts|[promotion_discount_flat](/schema/promotion_discount_flat.md)|false|none|Added since version: 6.0.0.0|
+|individualCodes|[promotion_individual_code_flat](/schema/promotion_individual_code_flat.md)|false|none|Added since version: 6.0.0.0|

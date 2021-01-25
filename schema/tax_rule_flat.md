@@ -23,6 +23,6 @@ Added since version: 6.1.0.0
 |taxId|string(uuid)|true|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|type|[tax_rule_type_flat](/schema/tax_rule_type_flat)|false|none|Added since version: 6.1.0.0|
-|country|[country_flat](/schema/country_flat)|false|none|Added since version: 6.0.0.0|
-|tax|[tax_flat](/schema/tax_flat)|false|none|Added since version: 6.0.0.0|
+|type|[tax_rule_type_flat](/schema/tax_rule_type_flat.md)|false|none|Added since version: 6.1.0.0|
+|country|[country_flat](/schema/country_flat.md)|false|none|Added since version: 6.0.0.0|
+|tax|[tax_flat](/schema/tax_flat.md)|false|none|Added since version: 6.0.0.0|

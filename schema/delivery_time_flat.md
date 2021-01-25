@@ -20,4 +20,4 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|shippingMethods|[shipping_method_flat](/schema/shipping_method_flat)|false|none|Added since version: 6.0.0.0|
+|shippingMethods|[shipping_method_flat](/schema/shipping_method_flat.md)|false|none|Added since version: 6.0.0.0|

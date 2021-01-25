@@ -41,12 +41,12 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|children|[category_flat](/schema/category_flat)|false|none|Added since version: 6.0.0.0|
-|media|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
-|products|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|nestedProducts|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|cmsPage|[cms_page_flat](/schema/cms_page_flat)|false|none|Added since version: 6.0.0.0|
-|productStream|[product_stream_flat](/schema/product_stream_flat)|false|none|Added since version: 6.0.0.0|
-|mainCategories|[main_category_flat](/schema/main_category_flat)|false|none|Added since version: 6.1.0.0|
-|seoUrls|[seo_url_flat](/schema/seo_url_flat)|false|none|Added since version: 6.0.0.0|
+|children|[category_flat](/schema/category_flat.md)|false|none|Added since version: 6.0.0.0|
+|media|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|
+|products|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|nestedProducts|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|cmsPage|[cms_page_flat](/schema/cms_page_flat.md)|false|none|Added since version: 6.0.0.0|
+|productStream|[product_stream_flat](/schema/product_stream_flat.md)|false|none|Added since version: 6.0.0.0|
+|mainCategories|[main_category_flat](/schema/main_category_flat.md)|false|none|Added since version: 6.1.0.0|
+|seoUrls|[seo_url_flat](/schema/seo_url_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -18,6 +18,6 @@ Added since version: 6.0.0.0
 |updatedAt|string(date-time)|false|read-only|none|
 |customFields|object|false|none|none|
 |translated|object|false|none|none|
-|documents|[document_flat](/schema/document_flat)|false|none|Added since version: 6.0.0.0|
-|documentBaseConfigs|[document_base_config_flat](/schema/document_base_config_flat)|false|none|Added since version: 6.0.0.0|
-|documentBaseConfigSalesChannels|[document_base_config_sales_channel_flat](/schema/document_base_config_sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|documents|[document_flat](/schema/document_flat.md)|false|none|Added since version: 6.0.0.0|
+|documentBaseConfigs|[document_base_config_flat](/schema/document_base_config_flat.md)|false|none|Added since version: 6.0.0.0|
+|documentBaseConfigSalesChannels|[document_base_config_sales_channel_flat](/schema/document_base_config_sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

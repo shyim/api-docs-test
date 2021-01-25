@@ -16,5 +16,5 @@ Added since version: 6.0.0.0
 |languageId|string(uuid)|true|none|none|
 |mediaId|string(uuid)|true|none|none|
 |position|integer(int64)|false|none|none|
-|mailTemplate|[mail_template_flat](/schema/mail_template_flat)|false|none|Added since version: 6.0.0.0|
-|media|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
+|mailTemplate|[mail_template_flat](/schema/mail_template_flat.md)|false|none|Added since version: 6.0.0.0|
+|media|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|

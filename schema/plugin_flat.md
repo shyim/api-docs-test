@@ -36,4 +36,4 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|paymentMethods|[payment_method_flat](/schema/payment_method_flat)|false|none|Added since version: 6.0.0.0|
+|paymentMethods|[payment_method_flat](/schema/payment_method_flat.md)|false|none|Added since version: 6.0.0.0|

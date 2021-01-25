@@ -29,4 +29,4 @@ xor
 |---|---|---|---|---|
 |*anonymous*|object|false|none|none|
 |» href|string(uri-reference)|true|none|A string containing the link's URL.|
-|» meta|[meta](/schema/meta)|false|none|Non-standard meta-information that can not be represented as an attribute or relationship.|
+|» meta|[meta](/schema/meta.md)|false|none|Non-standard meta-information that can not be represented as an attribute or relationship.|

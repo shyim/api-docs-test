@@ -17,7 +17,7 @@ allOf
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|*anonymous*|[resource](/schema/resource)|false|none|"Resource objects" appear in a JSON API document to represent resources.|
+|*anonymous*|[resource](/schema/resource.md)|false|none|"Resource objects" appear in a JSON API document to represent resources.|
 
 {% hint style="info" %}
 

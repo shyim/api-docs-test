@@ -15,5 +15,5 @@ Added since version: 6.0.0.0
 |categoryId|string(uuid)|true|none|none|
 |categoryVersionId|string(uuid)|false|none|none|
 |tagId|string(uuid)|true|none|none|
-|category|[category_flat](/schema/category_flat)|false|none|Added since version: 6.0.0.0|
-|tag|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
+|category|[category_flat](/schema/category_flat.md)|false|none|Added since version: 6.0.0.0|
+|tag|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|

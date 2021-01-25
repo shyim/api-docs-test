@@ -76,25 +76,25 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|children|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|deliveryTime|[delivery_time_flat](/schema/delivery_time_flat)|false|none|Added since version: 6.0.0.0|
-|tax|[tax_flat](/schema/tax_flat)|false|none|Added since version: 6.0.0.0|
-|manufacturer|[product_manufacturer_flat](/schema/product_manufacturer_flat)|false|none|Added since version: 6.0.0.0|
-|unit|[unit_flat](/schema/unit_flat)|false|none|Added since version: 6.0.0.0|
-|cover|[product_media_flat](/schema/product_media_flat)|false|none|Added since version: 6.0.0.0|
-|media|[product_media_flat](/schema/product_media_flat)|false|none|Added since version: 6.0.0.0|
-|crossSellings|[product_cross_selling_flat](/schema/product_cross_selling_flat)|false|none|Added since version: 6.1.0.0|
-|crossSellingAssignedProducts|[product_cross_selling_assigned_products_flat](/schema/product_cross_selling_assigned_products_flat)|false|none|Added since version: 6.2.0.0|
-|productReviews|[product_review_flat](/schema/product_review_flat)|false|none|Added since version: 6.0.0.0|
-|mainCategories|[main_category_flat](/schema/main_category_flat)|false|none|Added since version: 6.1.0.0|
-|seoUrls|[seo_url_flat](/schema/seo_url_flat)|false|none|Added since version: 6.0.0.0|
-|options|[property_group_option_flat](/schema/property_group_option_flat)|false|none|Added since version: 6.0.0.0|
-|properties|[property_group_option_flat](/schema/property_group_option_flat)|false|none|Added since version: 6.0.0.0|
-|categories|[category_flat](/schema/category_flat)|false|none|Added since version: 6.0.0.0|
-|categoriesRo|[category_flat](/schema/category_flat)|false|none|Added since version: 6.0.0.0|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|customFieldSets|[custom_field_set_flat](/schema/custom_field_set_flat)|false|none|Added since version: 6.0.0.0|
-|featureSet|[product_feature_set_flat](/schema/product_feature_set_flat)|false|none|Added since version: 6.3.0.0|
-|wishlists|[customer_wishlist_product_flat](/schema/customer_wishlist_product_flat)|false|none|Added since version: 6.3.4.0|
-|canonicalProduct|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|seoCategory|[category_flat](/schema/category_flat)|false|none|Added since version: 6.0.0.0|
+|children|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|deliveryTime|[delivery_time_flat](/schema/delivery_time_flat.md)|false|none|Added since version: 6.0.0.0|
+|tax|[tax_flat](/schema/tax_flat.md)|false|none|Added since version: 6.0.0.0|
+|manufacturer|[product_manufacturer_flat](/schema/product_manufacturer_flat.md)|false|none|Added since version: 6.0.0.0|
+|unit|[unit_flat](/schema/unit_flat.md)|false|none|Added since version: 6.0.0.0|
+|cover|[product_media_flat](/schema/product_media_flat.md)|false|none|Added since version: 6.0.0.0|
+|media|[product_media_flat](/schema/product_media_flat.md)|false|none|Added since version: 6.0.0.0|
+|crossSellings|[product_cross_selling_flat](/schema/product_cross_selling_flat.md)|false|none|Added since version: 6.1.0.0|
+|crossSellingAssignedProducts|[product_cross_selling_assigned_products_flat](/schema/product_cross_selling_assigned_products_flat.md)|false|none|Added since version: 6.2.0.0|
+|productReviews|[product_review_flat](/schema/product_review_flat.md)|false|none|Added since version: 6.0.0.0|
+|mainCategories|[main_category_flat](/schema/main_category_flat.md)|false|none|Added since version: 6.1.0.0|
+|seoUrls|[seo_url_flat](/schema/seo_url_flat.md)|false|none|Added since version: 6.0.0.0|
+|options|[property_group_option_flat](/schema/property_group_option_flat.md)|false|none|Added since version: 6.0.0.0|
+|properties|[property_group_option_flat](/schema/property_group_option_flat.md)|false|none|Added since version: 6.0.0.0|
+|categories|[category_flat](/schema/category_flat.md)|false|none|Added since version: 6.0.0.0|
+|categoriesRo|[category_flat](/schema/category_flat.md)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|customFieldSets|[custom_field_set_flat](/schema/custom_field_set_flat.md)|false|none|Added since version: 6.0.0.0|
+|featureSet|[product_feature_set_flat](/schema/product_feature_set_flat.md)|false|none|Added since version: 6.3.0.0|
+|wishlists|[customer_wishlist_product_flat](/schema/customer_wishlist_product_flat.md)|false|none|Added since version: 6.3.4.0|
+|canonicalProduct|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|seoCategory|[category_flat](/schema/category_flat.md)|false|none|Added since version: 6.0.0.0|

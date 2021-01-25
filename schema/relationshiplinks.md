@@ -31,7 +31,7 @@ and
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|» *anonymous*|[link](/schema/link)|false|none|A link **MUST** be represented as either: a string containing the link's URL or a link object.|
+|» *anonymous*|[link](/schema/link.md)|false|none|A link **MUST** be represented as either: a string containing the link's URL or a link object.|
 
 {% hint style="info" %}
 
@@ -41,4 +41,4 @@ continued
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|related|[link](/schema/link)|false|none|A link **MUST** be represented as either: a string containing the link's URL or a link object.|
+|related|[link](/schema/link.md)|false|none|A link **MUST** be represented as either: a string containing the link's URL or a link object.|

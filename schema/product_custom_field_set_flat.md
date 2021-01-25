@@ -15,5 +15,5 @@ Added since version: 6.3.0.0
 |productId|string(uuid)|true|none|none|
 |customFieldSetId|string(uuid)|true|none|none|
 |productVersionId|string(uuid)|false|none|none|
-|product|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|customFieldSet|[custom_field_set_flat](/schema/custom_field_set_flat)|false|none|Added since version: 6.0.0.0|
+|product|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|customFieldSet|[custom_field_set_flat](/schema/custom_field_set_flat.md)|false|none|Added since version: 6.0.0.0|

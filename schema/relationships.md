@@ -48,7 +48,7 @@ or
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
 |*anonymous*|object|false|none|none|
-|» links|[relationshipLinks](/schema/relationshiplinks)|false|none|A resource object **MAY** contain references to other resource objects ("relationships"). Relationships may be to-one or to-many. Relationships can be specified by including a member in a resource's links object.|
+|» links|[relationshipLinks](/schema/relationshiplinks.md)|false|none|A resource object **MAY** contain references to other resource objects ("relationships"). Relationships may be to-one or to-many. Relationships can be specified by including a member in a resource's links object.|
 |» data|any|false|none|Member, whose value represents "resource linkage".|
 
 {% hint style="info" %}
@@ -59,7 +59,7 @@ oneOf
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|»» *anonymous*|[relationshipToOne](/schema/relationshiptoone)|false|none|none|
+|»» *anonymous*|[relationshipToOne](/schema/relationshiptoone.md)|false|none|none|
 
 {% hint style="info" %}
 
@@ -69,4 +69,4 @@ xor
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|»» *anonymous*|[relationshipToMany](/schema/relationshiptomany)|false|none|An array of objects each containing \"type\" and \"id\" members for to-many relationships.|
+|»» *anonymous*|[relationshipToMany](/schema/relationshiptomany.md)|false|none|An array of objects each containing \"type\" and \"id\" members for to-many relationships.|

@@ -25,8 +25,8 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|documentType|[document_type_flat](/schema/document_type_flat)|false|none|Added since version: 6.0.0.0|
-|order|[order_flat](/schema/order_flat)|false|none|Added since version: 6.0.0.0|
-|referencedDocument|[document_flat](/schema/document_flat)|false|none|Added since version: 6.0.0.0|
-|dependentDocuments|[document_flat](/schema/document_flat)|false|none|Added since version: 6.0.0.0|
-|documentMediaFile|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
+|documentType|[document_type_flat](/schema/document_type_flat.md)|false|none|Added since version: 6.0.0.0|
+|order|[order_flat](/schema/order_flat.md)|false|none|Added since version: 6.0.0.0|
+|referencedDocument|[document_flat](/schema/document_flat.md)|false|none|Added since version: 6.0.0.0|
+|dependentDocuments|[document_flat](/schema/document_flat.md)|false|none|Added since version: 6.0.0.0|
+|documentMediaFile|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -27,5 +27,5 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|thumbnails|[media_thumbnail_flat](/schema/media_thumbnail_flat)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|thumbnails|[media_thumbnail_flat](/schema/media_thumbnail_flat.md)|false|none|Added since version: 6.0.0.0|

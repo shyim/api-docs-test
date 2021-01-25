@@ -19,6 +19,6 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|stateMachine|[state_machine_flat](/schema/state_machine_flat)|false|none|Added since version: 6.0.0.0|
-|fromStateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat)|false|none|Added since version: 6.0.0.0|
-|toStateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat)|false|none|Added since version: 6.0.0.0|
+|stateMachine|[state_machine_flat](/schema/state_machine_flat.md)|false|none|Added since version: 6.0.0.0|
+|fromStateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat.md)|false|none|Added since version: 6.0.0.0|
+|toStateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat.md)|false|none|Added since version: 6.0.0.0|

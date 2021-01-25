@@ -17,6 +17,6 @@ Added since version: 6.0.0.0
 |documentTypeId|string(uuid)|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|documentType|[document_type_flat](/schema/document_type_flat)|false|none|Added since version: 6.0.0.0|
-|documentBaseConfig|[document_base_config_flat](/schema/document_base_config_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|documentType|[document_type_flat](/schema/document_type_flat.md)|false|none|Added since version: 6.0.0.0|
+|documentBaseConfig|[document_base_config_flat](/schema/document_base_config_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

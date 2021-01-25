@@ -17,4 +17,4 @@ Added since version: 6.0.0.0
 |payload|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|promotion|[promotion_flat](/schema/promotion_flat)|false|none|Added since version: 6.0.0.0|
+|promotion|[promotion_flat](/schema/promotion_flat.md)|false|none|Added since version: 6.0.0.0|

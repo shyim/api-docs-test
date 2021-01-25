@@ -31,8 +31,8 @@ Added since version: 6.1.0.0
 |pausedSchedule|boolean|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|productStream|[product_stream_flat](/schema/product_stream_flat)|false|none|Added since version: 6.0.0.0|
-|storefrontSalesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannelDomain|[sales_channel_domain_flat](/schema/sales_channel_domain_flat)|false|none|Added since version: 6.0.0.0|
-|currency|[currency_flat](/schema/currency_flat)|false|none|Added since version: 6.0.0.0|
+|productStream|[product_stream_flat](/schema/product_stream_flat.md)|false|none|Added since version: 6.0.0.0|
+|storefrontSalesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannelDomain|[sales_channel_domain_flat](/schema/sales_channel_domain_flat.md)|false|none|Added since version: 6.0.0.0|
+|currency|[currency_flat](/schema/currency_flat.md)|false|none|Added since version: 6.0.0.0|

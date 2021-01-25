@@ -31,6 +31,6 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat)|false|none|Added since version: 6.0.0.0|
-|order|[order_flat](/schema/order_flat)|false|none|Added since version: 6.0.0.0|
-|paymentMethod|[payment_method_flat](/schema/payment_method_flat)|false|none|Added since version: 6.0.0.0|
+|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat.md)|false|none|Added since version: 6.0.0.0|
+|order|[order_flat](/schema/order_flat.md)|false|none|Added since version: 6.0.0.0|
+|paymentMethod|[payment_method_flat](/schema/payment_method_flat.md)|false|none|Added since version: 6.0.0.0|

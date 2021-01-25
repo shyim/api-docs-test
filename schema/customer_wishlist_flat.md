@@ -17,4 +17,4 @@ Added since version: 6.3.4.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|products|[customer_wishlist_product_flat](/schema/customer_wishlist_product_flat)|false|none|Added since version: 6.3.4.0|
+|products|[customer_wishlist_product_flat](/schema/customer_wishlist_product_flat.md)|false|none|Added since version: 6.3.4.0|

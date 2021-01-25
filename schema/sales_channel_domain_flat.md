@@ -21,8 +21,8 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|salesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
-|language|[language_flat](/schema/language_flat)|false|none|Added since version: 6.0.0.0|
-|currency|[currency_flat](/schema/currency_flat)|false|none|Added since version: 6.0.0.0|
-|snippetSet|[snippet_set_flat](/schema/snippet_set_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannelDefaultHreflang|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|salesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|
+|language|[language_flat](/schema/language_flat.md)|false|none|Added since version: 6.0.0.0|
+|currency|[currency_flat](/schema/currency_flat.md)|false|none|Added since version: 6.0.0.0|
+|snippetSet|[snippet_set_flat](/schema/snippet_set_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannelDefaultHreflang|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

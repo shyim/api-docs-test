@@ -55,14 +55,14 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat)|false|none|Added since version: 6.0.0.0|
-|orderCustomer|[order_customer_flat](/schema/order_customer_flat)|false|none|Added since version: 6.0.0.0|
-|currency|[currency_flat](/schema/currency_flat)|false|none|Added since version: 6.0.0.0|
-|language|[language_flat](/schema/language_flat)|false|none|Added since version: 6.0.0.0|
-|addresses|[order_address_flat](/schema/order_address_flat)|false|none|Added since version: 6.0.0.0|
-|billingAddress|[order_address_flat](/schema/order_address_flat)|false|none|Added since version: 6.0.0.0|
-|deliveries|[order_delivery_flat](/schema/order_delivery_flat)|false|none|Added since version: 6.0.0.0|
-|lineItems|[order_line_item_flat](/schema/order_line_item_flat)|false|none|Added since version: 6.0.0.0|
-|transactions|[order_transaction_flat](/schema/order_transaction_flat)|false|none|Added since version: 6.0.0.0|
-|documents|[document_flat](/schema/document_flat)|false|none|Added since version: 6.0.0.0|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
+|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat.md)|false|none|Added since version: 6.0.0.0|
+|orderCustomer|[order_customer_flat](/schema/order_customer_flat.md)|false|none|Added since version: 6.0.0.0|
+|currency|[currency_flat](/schema/currency_flat.md)|false|none|Added since version: 6.0.0.0|
+|language|[language_flat](/schema/language_flat.md)|false|none|Added since version: 6.0.0.0|
+|addresses|[order_address_flat](/schema/order_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|billingAddress|[order_address_flat](/schema/order_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|deliveries|[order_delivery_flat](/schema/order_delivery_flat.md)|false|none|Added since version: 6.0.0.0|
+|lineItems|[order_line_item_flat](/schema/order_line_item_flat.md)|false|none|Added since version: 6.0.0.0|
+|transactions|[order_transaction_flat](/schema/order_transaction_flat.md)|false|none|Added since version: 6.0.0.0|
+|documents|[document_flat](/schema/document_flat.md)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|

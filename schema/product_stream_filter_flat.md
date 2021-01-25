@@ -23,5 +23,5 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|productStream|[product_stream_flat](/schema/product_stream_flat)|false|none|Added since version: 6.0.0.0|
-|queries|[product_stream_filter_flat](/schema/product_stream_filter_flat)|false|none|Added since version: 6.0.0.0|
+|productStream|[product_stream_flat](/schema/product_stream_flat.md)|false|none|Added since version: 6.0.0.0|
+|queries|[product_stream_filter_flat](/schema/product_stream_filter_flat.md)|false|none|Added since version: 6.0.0.0|

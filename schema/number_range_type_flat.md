@@ -19,5 +19,5 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|numberRanges|[number_range_flat](/schema/number_range_flat)|false|none|Added since version: 6.0.0.0|
-|numberRangeSalesChannels|[number_range_sales_channel_flat](/schema/number_range_sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|numberRanges|[number_range_flat](/schema/number_range_flat.md)|false|none|Added since version: 6.0.0.0|
+|numberRangeSalesChannels|[number_range_sales_channel_flat](/schema/number_range_sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -18,4 +18,4 @@ Added since version: 6.1.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|rules|[tax_rule_flat](/schema/tax_rule_flat)|false|none|Added since version: 6.1.0.0|
+|rules|[tax_rule_flat](/schema/tax_rule_flat.md)|false|none|Added since version: 6.1.0.0|

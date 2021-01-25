@@ -22,4 +22,4 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|salesChannels|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|salesChannels|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

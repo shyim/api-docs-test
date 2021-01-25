@@ -36,8 +36,8 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat)|false|none|Added since version: 6.0.0.0|
-|order|[order_flat](/schema/order_flat)|false|none|Added since version: 6.0.0.0|
-|shippingOrderAddress|[order_address_flat](/schema/order_address_flat)|false|none|Added since version: 6.0.0.0|
-|shippingMethod|[shipping_method_flat](/schema/shipping_method_flat)|false|none|Added since version: 6.0.0.0|
-|positions|[order_delivery_position_flat](/schema/order_delivery_position_flat)|false|none|Added since version: 6.0.0.0|
+|stateMachineState|[state_machine_state_flat](/schema/state_machine_state_flat.md)|false|none|Added since version: 6.0.0.0|
+|order|[order_flat](/schema/order_flat.md)|false|none|Added since version: 6.0.0.0|
+|shippingOrderAddress|[order_address_flat](/schema/order_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|shippingMethod|[shipping_method_flat](/schema/shipping_method_flat.md)|false|none|Added since version: 6.0.0.0|
+|positions|[order_delivery_position_flat](/schema/order_delivery_position_flat.md)|false|none|Added since version: 6.0.0.0|

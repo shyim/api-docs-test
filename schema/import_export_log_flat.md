@@ -24,7 +24,7 @@ Added since version: 6.0.0.0
 |config|object|true|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|profile|[import_export_profile_flat](/schema/import_export_profile_flat)|false|none|Added since version: 6.0.0.0|
-|file|[import_export_file_flat](/schema/import_export_file_flat)|false|none|Added since version: 6.0.0.0|
-|invalidRecordsLog|[import_export_log_flat](/schema/import_export_log_flat)|false|none|Added since version: 6.0.0.0|
-|failedImportLog|[import_export_log_flat](/schema/import_export_log_flat)|false|none|Added since version: 6.0.0.0|
+|profile|[import_export_profile_flat](/schema/import_export_profile_flat.md)|false|none|Added since version: 6.0.0.0|
+|file|[import_export_file_flat](/schema/import_export_file_flat.md)|false|none|Added since version: 6.0.0.0|
+|invalidRecordsLog|[import_export_log_flat](/schema/import_export_log_flat.md)|false|none|Added since version: 6.0.0.0|
+|failedImportLog|[import_export_log_flat](/schema/import_export_log_flat.md)|false|none|Added since version: 6.0.0.0|

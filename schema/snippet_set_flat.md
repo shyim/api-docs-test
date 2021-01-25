@@ -18,5 +18,5 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|snippets|[snippet_flat](/schema/snippet_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannelDomains|[sales_channel_domain_flat](/schema/sales_channel_domain_flat)|false|none|Added since version: 6.0.0.0|
+|snippets|[snippet_flat](/schema/snippet_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannelDomains|[sales_channel_domain_flat](/schema/sales_channel_domain_flat.md)|false|none|Added since version: 6.0.0.0|

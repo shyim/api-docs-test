@@ -24,6 +24,6 @@ Added since version: 6.0.0.0
 |pickerKey|string|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|promotion|[promotion_flat](/schema/promotion_flat)|false|none|Added since version: 6.0.0.0|
-|discountRules|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
-|promotionDiscountPrices|[promotion_discount_prices_flat](/schema/promotion_discount_prices_flat)|false|none|Added since version: 6.0.0.0|
+|promotion|[promotion_flat](/schema/promotion_flat.md)|false|none|Added since version: 6.0.0.0|
+|discountRules|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|
+|promotionDiscountPrices|[promotion_discount_prices_flat](/schema/promotion_discount_prices_flat.md)|false|none|Added since version: 6.0.0.0|

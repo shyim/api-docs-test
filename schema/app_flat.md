@@ -32,9 +32,9 @@ Added since version: 6.3.1.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|integration|[integration_flat](/schema/integration_flat)|false|none|Added since version: 6.0.0.0|
-|aclRole|[acl_role_flat](/schema/acl_role_flat)|false|none|Added since version: 6.0.0.0|
-|customFieldSets|[custom_field_set_flat](/schema/custom_field_set_flat)|false|none|Added since version: 6.0.0.0|
-|actionButtons|[app_action_button_flat](/schema/app_action_button_flat)|false|none|Added since version: 6.3.1.0|
-|templates|[app_template_flat](/schema/app_template_flat)|false|none|Added since version: 6.3.1.0|
-|webhooks|[webhook_flat](/schema/webhook_flat)|false|none|Added since version: 6.3.1.0|
+|integration|[integration_flat](/schema/integration_flat.md)|false|none|Added since version: 6.0.0.0|
+|aclRole|[acl_role_flat](/schema/acl_role_flat.md)|false|none|Added since version: 6.0.0.0|
+|customFieldSets|[custom_field_set_flat](/schema/custom_field_set_flat.md)|false|none|Added since version: 6.0.0.0|
+|actionButtons|[app_action_button_flat](/schema/app_action_button_flat.md)|false|none|Added since version: 6.3.1.0|
+|templates|[app_template_flat](/schema/app_template_flat.md)|false|none|Added since version: 6.3.1.0|
+|webhooks|[webhook_flat](/schema/webhook_flat.md)|false|none|Added since version: 6.3.1.0|

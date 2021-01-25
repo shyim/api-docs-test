@@ -15,4 +15,4 @@ Added since version: 6.0.0.0
 |languageId|string(uuid)|true|none|none|
 |keyword|string|true|none|none|
 |reversed|string|false|none|none|
-|language|[language_flat](/schema/language_flat)|false|none|Added since version: 6.0.0.0|
+|language|[language_flat](/schema/language_flat.md)|false|none|Added since version: 6.0.0.0|

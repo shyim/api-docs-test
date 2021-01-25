@@ -14,5 +14,5 @@ Added since version: 6.0.0.0
 |id|string(uuid)|false|none|none|
 |setgroupId|string(uuid)|true|none|none|
 |ruleId|string(uuid)|true|none|none|
-|setgroup|[promotion_setgroup_flat](/schema/promotion_setgroup_flat)|false|none|Added since version: 6.0.0.0|
-|rule|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
+|setgroup|[promotion_setgroup_flat](/schema/promotion_setgroup_flat.md)|false|none|Added since version: 6.0.0.0|
+|rule|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|

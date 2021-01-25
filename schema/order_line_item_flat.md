@@ -48,7 +48,7 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|cover|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
-|order|[order_flat](/schema/order_flat)|false|none|Added since version: 6.0.0.0|
-|product|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|orderDeliveryPositions|[order_delivery_position_flat](/schema/order_delivery_position_flat)|false|none|Added since version: 6.0.0.0|
+|cover|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|
+|order|[order_flat](/schema/order_flat.md)|false|none|Added since version: 6.0.0.0|
+|product|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|orderDeliveryPositions|[order_delivery_position_flat](/schema/order_delivery_position_flat.md)|false|none|Added since version: 6.0.0.0|

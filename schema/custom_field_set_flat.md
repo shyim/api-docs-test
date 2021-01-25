@@ -20,7 +20,7 @@ Added since version: 6.0.0.0
 |appId|string(uuid)|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|customFields|[custom_field_flat](/schema/custom_field_flat)|false|none|Added since version: 6.0.0.0|
-|relations|[custom_field_set_relation_flat](/schema/custom_field_set_relation_flat)|false|none|Added since version: 6.0.0.0|
-|products|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
-|app|[app_flat](/schema/app_flat)|false|none|Added since version: 6.3.1.0|
+|customFields|[custom_field_flat](/schema/custom_field_flat.md)|false|none|Added since version: 6.0.0.0|
+|relations|[custom_field_set_relation_flat](/schema/custom_field_set_relation_flat.md)|false|none|Added since version: 6.0.0.0|
+|products|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|
+|app|[app_flat](/schema/app_flat.md)|false|none|Added since version: 6.3.1.0|

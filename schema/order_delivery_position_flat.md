@@ -34,5 +34,5 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|orderDelivery|[order_delivery_flat](/schema/order_delivery_flat)|false|none|Added since version: 6.0.0.0|
-|orderLineItem|[order_line_item_flat](/schema/order_line_item_flat)|false|none|Added since version: 6.0.0.0|
+|orderDelivery|[order_delivery_flat](/schema/order_delivery_flat.md)|false|none|Added since version: 6.0.0.0|
+|orderLineItem|[order_line_item_flat](/schema/order_line_item_flat.md)|false|none|Added since version: 6.0.0.0|

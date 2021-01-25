@@ -22,4 +22,4 @@ Added since version: 6.3.1.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|app|[app_flat](/schema/app_flat)|false|none|Added since version: 6.3.1.0|
+|app|[app_flat](/schema/app_flat.md)|false|none|Added since version: 6.3.1.0|

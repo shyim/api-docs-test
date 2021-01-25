@@ -31,6 +31,6 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|country|[country_flat](/schema/country_flat)|false|none|Added since version: 6.0.0.0|
-|countryState|[country_state_flat](/schema/country_state_flat)|false|none|Added since version: 6.0.0.0|
-|salutation|[salutation_flat](/schema/salutation_flat)|false|none|Added since version: 6.0.0.0|
+|country|[country_flat](/schema/country_flat.md)|false|none|Added since version: 6.0.0.0|
+|countryState|[country_state_flat](/schema/country_state_flat.md)|false|none|Added since version: 6.0.0.0|
+|salutation|[salutation_flat](/schema/salutation_flat.md)|false|none|Added since version: 6.0.0.0|

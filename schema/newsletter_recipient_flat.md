@@ -28,7 +28,7 @@ Added since version: 6.0.0.0
 |salesChannelId|string(uuid)|true|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|salutation|[salutation_flat](/schema/salutation_flat)|false|none|Added since version: 6.0.0.0|
-|language|[language_flat](/schema/language_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|salutation|[salutation_flat](/schema/salutation_flat.md)|false|none|Added since version: 6.0.0.0|
+|language|[language_flat](/schema/language_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|

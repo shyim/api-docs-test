@@ -25,9 +25,9 @@ Added since version: 6.0.0.0
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
 |translated|object|false|none|none|
-|deliveryTime|[delivery_time_flat](/schema/delivery_time_flat)|false|none|Added since version: 6.0.0.0|
-|availabilityRule|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
-|prices|[shipping_method_price_flat](/schema/shipping_method_price_flat)|false|none|Added since version: 6.0.0.0|
-|media|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|tax|[tax_flat](/schema/tax_flat)|false|none|Added since version: 6.0.0.0|
+|deliveryTime|[delivery_time_flat](/schema/delivery_time_flat.md)|false|none|Added since version: 6.0.0.0|
+|availabilityRule|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|
+|prices|[shipping_method_price_flat](/schema/shipping_method_price_flat.md)|false|none|Added since version: 6.0.0.0|
+|media|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|tax|[tax_flat](/schema/tax_flat.md)|false|none|Added since version: 6.0.0.0|

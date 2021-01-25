@@ -22,6 +22,6 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|shippingMethod|[shipping_method_flat](/schema/shipping_method_flat)|false|none|Added since version: 6.0.0.0|
-|rule|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
-|calculationRule|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
+|shippingMethod|[shipping_method_flat](/schema/shipping_method_flat.md)|false|none|Added since version: 6.0.0.0|
+|rule|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|
+|calculationRule|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|

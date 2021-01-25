@@ -20,5 +20,5 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|mediaFolders|[media_folder_flat](/schema/media_folder_flat)|false|none|Added since version: 6.0.0.0|
-|mediaThumbnailSizes|[media_thumbnail_size_flat](/schema/media_thumbnail_size_flat)|false|none|Added since version: 6.0.0.0|
+|mediaFolders|[media_folder_flat](/schema/media_folder_flat.md)|false|none|Added since version: 6.0.0.0|
+|mediaThumbnailSizes|[media_thumbnail_size_flat](/schema/media_thumbnail_size_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -17,5 +17,5 @@ Added since version: 6.3.4.0
 |wishlistId|string(uuid)|true|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|wishlist|[customer_wishlist_flat](/schema/customer_wishlist_flat)|false|none|Added since version: 6.3.4.0|
-|product|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
+|wishlist|[customer_wishlist_flat](/schema/customer_wishlist_flat.md)|false|none|Added since version: 6.3.4.0|
+|product|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|

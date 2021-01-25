@@ -21,4 +21,4 @@ and
 
 |Name|Type|Required|Restrictions|Description|
 |---|---|---|---|---|
-|*anonymous*|[linkage](/schema/linkage)|false|none|The "type" and "id" to non-empty members.|
+|*anonymous*|[linkage](/schema/linkage.md)|false|none|The "type" and "id" to non-empty members.|

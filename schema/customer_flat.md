@@ -49,17 +49,17 @@ Added since version: 6.0.0.0
 |boundSalesChannelId|string(uuid)|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|group|[customer_group_flat](/schema/customer_group_flat)|false|none|Added since version: 6.0.0.0|
-|defaultPaymentMethod|[payment_method_flat](/schema/payment_method_flat)|false|none|Added since version: 6.0.0.0|
-|language|[language_flat](/schema/language_flat)|false|none|Added since version: 6.0.0.0|
-|lastPaymentMethod|[payment_method_flat](/schema/payment_method_flat)|false|none|Added since version: 6.0.0.0|
-|defaultBillingAddress|[customer_address_flat](/schema/customer_address_flat)|false|none|Added since version: 6.0.0.0|
-|defaultShippingAddress|[customer_address_flat](/schema/customer_address_flat)|false|none|Added since version: 6.0.0.0|
-|salutation|[salutation_flat](/schema/salutation_flat)|false|none|Added since version: 6.0.0.0|
-|addresses|[customer_address_flat](/schema/customer_address_flat)|false|none|Added since version: 6.0.0.0|
-|tags|[tag_flat](/schema/tag_flat)|false|none|Added since version: 6.0.0.0|
-|promotions|[promotion_flat](/schema/promotion_flat)|false|none|Added since version: 6.0.0.0|
-|productReviews|[product_review_flat](/schema/product_review_flat)|false|none|Added since version: 6.0.0.0|
-|recoveryCustomer|[customer_recovery_flat](/schema/customer_recovery_flat)|false|none|Added since version: 6.1.0.0|
-|requestedGroup|[customer_group_flat](/schema/customer_group_flat)|false|none|Added since version: 6.0.0.0|
-|wishlists|[customer_wishlist_flat](/schema/customer_wishlist_flat)|false|none|Added since version: 6.3.4.0|
+|group|[customer_group_flat](/schema/customer_group_flat.md)|false|none|Added since version: 6.0.0.0|
+|defaultPaymentMethod|[payment_method_flat](/schema/payment_method_flat.md)|false|none|Added since version: 6.0.0.0|
+|language|[language_flat](/schema/language_flat.md)|false|none|Added since version: 6.0.0.0|
+|lastPaymentMethod|[payment_method_flat](/schema/payment_method_flat.md)|false|none|Added since version: 6.0.0.0|
+|defaultBillingAddress|[customer_address_flat](/schema/customer_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|defaultShippingAddress|[customer_address_flat](/schema/customer_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|salutation|[salutation_flat](/schema/salutation_flat.md)|false|none|Added since version: 6.0.0.0|
+|addresses|[customer_address_flat](/schema/customer_address_flat.md)|false|none|Added since version: 6.0.0.0|
+|tags|[tag_flat](/schema/tag_flat.md)|false|none|Added since version: 6.0.0.0|
+|promotions|[promotion_flat](/schema/promotion_flat.md)|false|none|Added since version: 6.0.0.0|
+|productReviews|[product_review_flat](/schema/product_review_flat.md)|false|none|Added since version: 6.0.0.0|
+|recoveryCustomer|[customer_recovery_flat](/schema/customer_recovery_flat.md)|false|none|Added since version: 6.1.0.0|
+|requestedGroup|[customer_group_flat](/schema/customer_group_flat.md)|false|none|Added since version: 6.0.0.0|
+|wishlists|[customer_wishlist_flat](/schema/customer_wishlist_flat.md)|false|none|Added since version: 6.3.4.0|

@@ -16,4 +16,4 @@ Added since version: 6.0.0.0
 |lastValue|integer(int64)|true|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|numberRange|[number_range_flat](/schema/number_range_flat)|false|none|Added since version: 6.0.0.0|
+|numberRange|[number_range_flat](/schema/number_range_flat.md)|false|none|Added since version: 6.0.0.0|

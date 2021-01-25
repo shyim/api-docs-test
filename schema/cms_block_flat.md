@@ -29,6 +29,6 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|section|[cms_section_flat](/schema/cms_section_flat)|false|none|Added since version: 6.0.0.0|
-|backgroundMedia|[media_flat](/schema/media_flat)|false|none|Added since version: 6.0.0.0|
-|slots|[cms_slot_flat](/schema/cms_slot_flat)|false|none|Added since version: 6.0.0.0|
+|section|[cms_section_flat](/schema/cms_section_flat.md)|false|none|Added since version: 6.0.0.0|
+|backgroundMedia|[media_flat](/schema/media_flat.md)|false|none|Added since version: 6.0.0.0|
+|slots|[cms_slot_flat](/schema/cms_slot_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -17,6 +17,6 @@ Added since version: 6.0.0.0
 |numberRangeTypeId|string(uuid)|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|numberRange|[number_range_flat](/schema/number_range_flat)|false|none|Added since version: 6.0.0.0|
-|salesChannel|[sales_channel_flat](/schema/sales_channel_flat)|false|none|Added since version: 6.0.0.0|
-|numberRangeType|[number_range_type_flat](/schema/number_range_type_flat)|false|none|Added since version: 6.0.0.0|
+|numberRange|[number_range_flat](/schema/number_range_flat.md)|false|none|Added since version: 6.0.0.0|
+|salesChannel|[sales_channel_flat](/schema/sales_channel_flat.md)|false|none|Added since version: 6.0.0.0|
+|numberRangeType|[number_range_type_flat](/schema/number_range_type_flat.md)|false|none|Added since version: 6.0.0.0|

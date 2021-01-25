@@ -14,5 +14,5 @@ Added since version: 6.3.3.0
 |id|string(uuid)|false|none|none|
 |eventActionId|string(uuid)|true|none|none|
 |ruleId|string(uuid)|true|none|none|
-|eventAction|[event_action_flat](/schema/event_action_flat)|false|none|Added since version: 6.0.0.0|
-|rule|[rule_flat](/schema/rule_flat)|false|none|Added since version: 6.0.0.0|
+|eventAction|[event_action_flat](/schema/event_action_flat.md)|false|none|Added since version: 6.0.0.0|
+|rule|[rule_flat](/schema/rule_flat.md)|false|none|Added since version: 6.0.0.0|

@@ -22,4 +22,4 @@ Added since version: 6.0.0.0
 |customFields|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|product|[product_flat](/schema/product_flat)|false|none|Added since version: 6.0.0.0|
+|product|[product_flat](/schema/product_flat.md)|false|none|Added since version: 6.0.0.0|

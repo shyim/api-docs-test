@@ -27,5 +27,5 @@ Added since version: 6.0.0.0
 |remoteAddress|string|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|order|[order_flat](/schema/order_flat)|false|none|Added since version: 6.0.0.0|
-|salutation|[salutation_flat](/schema/salutation_flat)|false|none|Added since version: 6.0.0.0|
+|order|[order_flat](/schema/order_flat.md)|false|none|Added since version: 6.0.0.0|
+|salutation|[salutation_flat](/schema/salutation_flat.md)|false|none|Added since version: 6.0.0.0|

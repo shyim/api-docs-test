@@ -20,4 +20,4 @@ Added since version: 6.0.0.0
 |moduleTypes|object|false|none|none|
 |createdAt|string(date-time)|true|read-only|none|
 |updatedAt|string(date-time)|false|read-only|none|
-|conditions|[rule_condition_flat](/schema/rule_condition_flat)|false|none|Added since version: 6.0.0.0|
+|conditions|[rule_condition_flat](/schema/rule_condition_flat.md)|false|none|Added since version: 6.0.0.0|

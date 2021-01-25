@@ -17,5 +17,5 @@ Added since version: 6.0.0.0
 |name|string|true|none|none|
 |description|string|false|none|none|
 |privileges|[any]|true|none|none|
-|app|[app_flat](/schema/app_flat)|false|none|Added since version: 6.3.1.0|
-|integrations|[integration_flat](/schema/integration_flat)|false|none|Added since version: 6.0.0.0|
+|app|[app_flat](/schema/app_flat.md)|false|none|Added since version: 6.3.1.0|
+|integrations|[integration_flat](/schema/integration_flat.md)|false|none|Added since version: 6.0.0.0|
