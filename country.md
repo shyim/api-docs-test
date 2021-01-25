@@ -19,6 +19,10 @@ To perform this operation, you must be authenticated using following headers:
 sw-access-key
 {% endhint %}
 
+{% hint style="warning" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% endhint %}
+
 Headers:
 
 - Accept: `application/json`
@@ -28,51 +32,6 @@ Headers:
 
 ```javascript
 {
-  "page": 0,
-  "limit": 0,
-  "term": "string",
-  "filter": [
-    {
-      "type": "string",
-      "field": "string",
-      "value": "string"
-    }
-  ],
-  "sort": [
-    {
-      "field": "string",
-      "order": "string",
-      "naturalSorting": true
-    }
-  ],
-  "post-filter": [
-    {
-      "type": "string",
-      "field": "string",
-      "value": "string"
-    }
-  ],
-  "associations": {},
-  "aggregations": [
-    {
-      "name": "string",
-      "type": "string",
-      "field": "string"
-    }
-  ],
-  "query": [
-    {
-      "score": 0,
-      "query": {
-        "type": "string",
-        "field": "string",
-        "value": "string"
-      }
-    }
-  ],
-  "grouping": [
-    "string"
-  ],
   "onlyAvailable": 0
 }
 ```
