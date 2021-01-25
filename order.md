@@ -15,9 +15,9 @@ Endpoint: `https://my-store.shopware.store/store-api/order/state/cancel`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -48,8 +48,8 @@ Endpoint: `https://my-store.shopware.store/store-api/order`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:

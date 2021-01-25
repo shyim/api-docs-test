@@ -15,8 +15,8 @@ Endpoint: `https://my-store.shopware.store/store-api/newsletter/confirm`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -43,8 +43,8 @@ Endpoint: `https://my-store.shopware.store/store-api/newsletter/subscribe`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -86,8 +86,8 @@ Endpoint: `https://my-store.shopware.store/store-api/newsletter/unsubscribe`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:

@@ -15,9 +15,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/change-profile`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -50,9 +50,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/change-email`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -85,9 +85,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/change-password`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -120,9 +120,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/change-payment-meth
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -149,8 +149,8 @@ Endpoint: `https://my-store.shopware.store/store-api/customer-group-registration
 Method: `GET`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -177,9 +177,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/customer`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -254,9 +254,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/customer`
 Method: `DELETE`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -279,9 +279,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/address/{addressId}
 Method: `DELETE`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -304,9 +304,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/address/{addressId}
 Method: `PATCH`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -2675,9 +2675,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/list-address`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -2752,8 +2752,8 @@ Endpoint: `https://my-store.shopware.store/store-api/account/login`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -2785,9 +2785,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/logout`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -2806,8 +2806,8 @@ Endpoint: `https://my-store.shopware.store/store-api/account/register-confirm`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -2834,8 +2834,8 @@ Endpoint: `https://my-store.shopware.store/store-api/account/register`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -2893,8 +2893,8 @@ Endpoint: `https://my-store.shopware.store/store-api/account/recovery-password-c
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -2924,8 +2924,8 @@ Endpoint: `https://my-store.shopware.store/store-api/account/recovery-password`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -2957,9 +2957,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/address/default-shi
 Method: `PATCH`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -2982,9 +2982,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/address/default-bil
 Method: `PATCH`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -3007,9 +3007,9 @@ Endpoint: `https://my-store.shopware.store/store-api/account/address`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
@@ -5374,9 +5374,9 @@ Endpoint: `https://my-store.shopware.store/store-api/order/payment`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:

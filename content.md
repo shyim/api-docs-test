@@ -15,8 +15,8 @@ Endpoint: `https://my-store.shopware.store/store-api/category/{categoryId}`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -124,8 +124,8 @@ Endpoint: `https://my-store.shopware.store/store-api/cms/{id}`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:

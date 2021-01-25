@@ -15,8 +15,8 @@ Endpoint: `https://my-store.shopware.store/store-api/handle-payment`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -45,8 +45,8 @@ Endpoint: `https://my-store.shopware.store/store-api/payment-method`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:

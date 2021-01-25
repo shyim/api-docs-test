@@ -15,8 +15,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product-export/{accessKey}/
 Method: `GET`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -41,8 +41,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product/{productId}/cross-s
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -69,8 +69,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product/{productId}`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -97,8 +97,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product-listing/{categoryId
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -125,8 +125,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -205,8 +205,8 @@ Endpoint: `https://my-store.shopware.store/store-api/product/{productId}/reviews
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
 {% endhint %}
 
 Headers:
@@ -233,9 +233,9 @@ Endpoint: `https://my-store.shopware.store/store-api/product/{productId}/review`
 Method: `POST`
 
 {% hint style="warning" %}
-To perform this operation, you must be authenticated using following methods:
-sw-access-key in Header
-sw-context-token in Header
+To perform this operation, you must be authenticated using following headers:
+sw-access-key
+sw-context-token
 {% endhint %}
 
 Headers:
