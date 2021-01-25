@@ -49,8 +49,8 @@ sw-access-key
 sw-context-token
 {% endhint %}
 
-{% hint style="warning" %}
-You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% hint style="info" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations`, `aggregations`, ...).
 {% endhint %}
 
 Headers:

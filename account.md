@@ -182,8 +182,8 @@ sw-access-key
 sw-context-token
 {% endhint %}
 
-{% hint style="warning" %}
-You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% hint style="info" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations`, `aggregations`, ...).
 {% endhint %}
 
 Headers:
@@ -436,8 +436,8 @@ sw-access-key
 sw-context-token
 {% endhint %}
 
-{% hint style="warning" %}
-You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% hint style="info" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations`, `aggregations`, ...).
 {% endhint %}
 
 Headers:
@@ -580,10 +580,10 @@ Campaign Code
 - `password` - string- Optional
 Password
 
-- `billingAddress` - [customer_address_flat](/schema/customer_address_flat)- Optional
+- `billingAddress` - [customer_address_flat](/schema/customer_address_flat.md)- Optional
 Billingaddress
 
-- `shippingAddress` - [customer_address_flat](/schema/customer_address_flat)- Optional
+- `shippingAddress` - [customer_address_flat](/schema/customer_address_flat.md)- Optional
 Shippingaddress
 
 ### Response

@@ -19,8 +19,8 @@ To perform this operation, you must be authenticated using following headers:
 sw-access-key
 {% endhint %}
 
-{% hint style="warning" %}
-You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% hint style="info" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations`, `aggregations`, ...).
 {% endhint %}
 
 Headers:
@@ -87,8 +87,8 @@ To perform this operation, you must be authenticated using following headers:
 sw-access-key
 {% endhint %}
 
-{% hint style="warning" %}
-You can use any Criteria parameter in this Request (e.g `filter`, `associations` load additional data).
+{% hint style="info" %}
+You can use any Criteria parameter in this Request (e.g `filter`, `associations`, `aggregations`, ...).
 {% endhint %}
 
 Headers:
